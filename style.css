@@ -1,5 +1,5 @@
 body{
-    background-image: red;
+    background-image: rgb(0, 140, 255);
 }
 
 h1{
@@ -9,4 +9,7 @@ h1{
 
 p{
     text-align: center;
+}
+#galileu{
+    width: 100%;
 }
